@@ -96,13 +96,13 @@ CampusFix/
 ### 1. Prerequisites
   
 Install:  
-JDK 17+  
-Maven 3.6+  
-MySQL 8  
-Check installations:  
-java -version  
-mvn -version  
-mysql --version  
+- JDK 17+
+- Maven 3.6+
+- MySQL 8
+- Check installations:
+- java -version
+- mvn -version
+- mysql --version  
   
 ### 2. Database Setup
 
@@ -125,15 +125,15 @@ mysql -u root -p < database/campusfix.sql
   
 #### Linux / macOS
   
-export CAMPUSFIX_DB_URL="jdbc:mysql://localhost:3306/campusfix?useSSL=false&serverTimezone=UTC"  
-export CAMPUSFIX_DB_USER="root"  
-export CAMPUSFIX_DB_PASSWORD="your_mysql_password"  
+- export CAMPUSFIX_DB_URL="jdbc:mysql://localhost:3306/campusfix?useSSL=false&serverTimezone=UTC"
+- export CAMPUSFIX_DB_USER="root"
+- export CAMPUSFIX_DB_PASSWORD="your_mysql_password"  
   
 #### Windows PowerShell
   
-$env:CAMPUSFIX_DB_URL = "jdbc:mysql://localhost:3306/campusfix?useSSL=false&serverTimezone=UTC"  
-$env:CAMPUSFIX_DB_USER = "root"  
-$env:CAMPUSFIX_DB_PASSWORD = "your_mysql_password"  
+- $env:CAMPUSFIX_DB_URL = "jdbc:mysql://localhost:3306/campusfix?useSSL=false&serverTimezone=UTC"
+- $env:CAMPUSFIX_DB_USER = "root"
+- $env:CAMPUSFIX_DB_PASSWORD = "your_mysql_password"  
   
 ### 5. Build & Run
   
