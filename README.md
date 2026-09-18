@@ -61,8 +61,8 @@ Technology	                          Usage
 ☕ Java 17+	                          Application
 🗄️ MySQL 8	                          Database
 🔌 JDBC	                              Database connectivity
-📦 Maven	                            Build & dependencies
-📁 Java NIO.2	File                    handling
-🧵 ExecutorService	                  Concurrency
+📦 Maven	                           Build & dependencies
+📁 Java NIO.2	File                   handling
+🧵 ExecutorService	                 Concurrency
 ~~~
 No external frameworks — plain Java, JDBC, console I/O, and NIO.2.
