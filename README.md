@@ -268,6 +268,9 @@ Therefore, the following requirements are not applicable:
 ---
 
 ## Author
-Irfan Alam Ansari
-25BAI11088
-B.tech in CSE (AI&ML)
+
+Irfan Alam Ansari  
+25BAI11088  
+B.tech in CSE (AI&ML)  
+
+---
