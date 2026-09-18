@@ -66,3 +66,24 @@ Technology	                          Usage
 🧵 ExecutorService	                  Concurrency
 ~~~
 No external frameworks — plain Java, JDBC, console I/O, and NIO.2.
+---
+## 📂 Project Structure
+CampusFix/
+├── src/main/java/com/campusfix/
+│   ├── model/          # User, Student, Staff, Admin, Complaint
+│   ├── service/        # Business logic
+│   ├── dao/            # JDBC data access
+│   ├── exception/      # Custom exceptions
+│   ├── util/           # DB, validation, logging, reports, ID generation
+│   ├── concurrency/    # Concurrent submission demo
+│   └── Main.java       # Entry point
+│
+├── database/
+│   └── campusfix.sql
+├── data/
+│   ├── audit.log
+│   ├── complaints_backup.csv
+│   └── reports/
+├── pom.xml
+├── statement.md
+└── README.md
