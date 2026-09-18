@@ -10,10 +10,6 @@ CampusFix is a **Campus Complaint Management System** designed to provide a stru
 
 It replaces informal complaint methods such as chat groups or in-person reports with a centralized system where every complaint receives a unique ID and can be tracked throughout its entire lifecycle.
 
----
-
-## 📝 Problem Statement
-
 Campus issues such as:
 
 - 📶 Broken Wi-Fi
@@ -135,3 +131,6 @@ IN_PROGRESS
 RESOLVED
     ↓
 CLOSED
+```
+
+---
