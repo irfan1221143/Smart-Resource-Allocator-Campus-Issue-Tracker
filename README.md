@@ -49,7 +49,7 @@ Feedback
 ##👥 User Roles
 ~~~
 Role	                                Capabilities
-🎓 Student	                          Submit, track, view history, cancel eligible complaints, give feedback
+🎓 Student	                            Submit, track, view history, cancel eligible complaints, give feedback
 👨‍🔧 Staff	                            View assigned complaints, accept, hold/resume, resolve, add remarks
 👨‍💼 Admin	                            View all complaints, assign staff, manage priority, analytics, reports, backups
 ~~~
