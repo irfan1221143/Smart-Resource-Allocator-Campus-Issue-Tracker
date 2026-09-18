@@ -68,6 +68,7 @@ Technology	                          Usage
 No external frameworks — plain Java, JDBC, console I/O, and NIO.2.
 ---
 ## 📂 Project Structure
+```text
 CampusFix/
 ├── src/main/java/com/campusfix/
 │   ├── model/          # User, Student, Staff, Admin, Complaint
@@ -87,3 +88,5 @@ CampusFix/
 ├── pom.xml
 ├── statement.md
 └── README.md
+```
+---
