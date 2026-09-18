@@ -46,7 +46,7 @@ Feedback
 
 ---
 
-##👥 User Roles
+## 👥 User Roles
 ~~~
 Role	                                Capabilities
 🎓 Student	                            Submit, track, view history, cancel eligible complaints, give feedback
@@ -54,9 +54,9 @@ Role	                                Capabilities
 👨‍💼 Admin	                            View all complaints, assign staff, manage priority, analytics, reports, backups
 ~~~
 ---
-~~~
-##🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+~~~
 Technology	                          Usage
 ☕ Java 17+	                          Application
 🗄️ MySQL 8	                          Database
