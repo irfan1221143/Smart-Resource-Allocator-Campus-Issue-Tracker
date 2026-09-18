@@ -47,14 +47,14 @@ Feedback
 ---
 
 ##👥 User Roles
-
+~~~
 Role	                                Capabilities
 🎓 Student	                          Submit, track, view history, cancel eligible complaints, give feedback
 👨‍🔧 Staff	                            View assigned complaints, accept, hold/resume, resolve, add remarks
 👨‍💼 Admin	                            View all complaints, assign staff, manage priority, analytics, reports, backups
-
+~~~
 ---
-
+~~~
 ##🛠️ Tech Stack
 
 Technology	                          Usage
@@ -64,5 +64,5 @@ Technology	                          Usage
 📦 Maven	                            Build & dependencies
 📁 Java NIO.2	File                    handling
 🧵 ExecutorService	                  Concurrency
-
+~~~
 No external frameworks — plain Java, JDBC, console I/O, and NIO.2.
